@@ -1,0 +1,10 @@
+# main links
+main:
+  - title: "HOME"
+    url: "/"
+  - title: "ABOUT"
+    url: "about"
+  - title: "PORTFOLIO"
+    url: "portfolio"
+  - title: "CONTACT"
+    url: "contact"
